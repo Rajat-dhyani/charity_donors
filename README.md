@@ -21,3 +21,14 @@ Things i have learnt by completing this project:
 ### Other Related Projects:
 * <strong> Project 0 : </strong> *[Titanic Survivals Prediction](https://github.com/Rajat-dhyani/titanic_survival)*
 * <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
+* <strong> Project 3 : </strong> *[Creating Cutomer Segments](https://github.com/Rajat-dhyani/creating_cutomer_segments)*
+
+## Software and Libraries
+This project uses the following software and Python libraries:
+
+* [Python 2.7](https://www.python.org/download/releases/2.7/)
+* [NumPy](http://www.numpy.org/)
+* [pandas](http://pandas.pydata.org/)
+* [scikit-learn](http://scikit-learn.org/0.17/install.html) (v0.17)
+* [matplotlib](http://matplotlib.org/)
+* [Jupyter Notebook](http://ipython.org/notebook.html)
