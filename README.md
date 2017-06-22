@@ -8,6 +8,8 @@
 
 *My goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.*
 
+![Charity ML](https://github.com/Rajat-dhyani/charity_donors/blob/master/RajatDhyani-CharityML.jpg)
+
 ## Project Highlights
 *This project is designed to get me acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.*
 
