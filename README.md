@@ -13,6 +13,11 @@
 ## Project Highlights
 *This project is designed to get me acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.*
 
+**Achievements:**
+* Trained and tested 3 different supervised machine learning models to predict the likelihood of donations.
+* Classifiers used : k-nearest neighbors,  Ada Boost, Random Forest
+* Achieved accuracy and f-score of 84.83 %  using Random Forest
+
 Things i have learnt by completing this project:
 * How to identify when preprocessing is needed, and how to apply it.
 * How to establish a benchmark for a solution to the problem.
@@ -24,6 +29,9 @@ Things i have learnt by completing this project:
 * <strong> Project 0 : </strong> *[Titanic Survivals Prediction](https://github.com/Rajat-dhyani/titanic_survival)*
 * <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
 * <strong> Project 3 : </strong> *[Creating Cutomer Segments](https://github.com/Rajat-dhyani/creating_cutomer_segments)*
+* <strong> Project 4 : </strong> *[Smart Cab](https://github.com/Rajat-dhyani/smart-cab)*
+* <strong> Project 5 : </strong> *[ImageNetBot](https://github.com/Rajat-dhyani/ImageNetBot)*
+* <strong> Project 6 : </strong> *[Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor/)*
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
